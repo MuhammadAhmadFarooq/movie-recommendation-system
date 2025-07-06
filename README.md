@@ -13,7 +13,6 @@ This project supports user authentication, movie management (admin), user profil
 - [Getting Started](#getting-started)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
-- [API Documentation](#api-documentation)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
@@ -28,7 +27,6 @@ This project supports user authentication, movie management (admin), user profil
 - **Movie Management:** Admins can add, update, and delete movies.
 - **Movie Listing:** All users can browse movies.
 - **Watchlist:** Users can manage their personal watchlist.
-- **API Documentation:** Swagger UI for easy API exploration.
 - **Responsive Frontend:** Built with React and styled for usability.
 
 ---
@@ -37,7 +35,6 @@ This project supports user authentication, movie management (admin), user profil
 
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs
 - **Frontend:** React, Axios, React Router
-- **API Docs:** Swagger
 
 ---
 
@@ -122,12 +119,6 @@ movie-recommendation-system/
    npm start
    ```
    The app will run at [http://localhost:3000](http://localhost:3000).
-
----
-
-## API Documentation
-
-- Visit [http://localhost:5000/api-docs](http://localhost:5000/api-docs) for interactive Swagger API docs.
 
 ---
 
